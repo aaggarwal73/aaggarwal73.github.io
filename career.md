@@ -2,6 +2,7 @@
 title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 layout: single
+permalink: /career/
 header:
   image: "../assets/images/splash.jpg"
   teaser: "../assets/images/splash.jpg"

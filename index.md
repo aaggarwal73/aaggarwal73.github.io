@@ -12,7 +12,7 @@ header:
 intro: 
   - excerpt: 'Welcome to my website! This website will try to serve the function of my blog space for georgia tech'
 feature_row:
-  - image_path: "./assets/images/untitled.png"
+  - image_path: "./assets/images/Untitled.png"
     alt: "Travel Skyline"
     title: "Travel"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
