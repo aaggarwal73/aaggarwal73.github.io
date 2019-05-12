@@ -13,4 +13,4 @@ sidebar:
     text: "Back-End Engineer"
   - title: "Software Engineer at Qualtrics"
     text: ""
-
+---
