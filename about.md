@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 author_profile: true
 ---
-# About
 Some information about me!
 
 ## Who am I?
