@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Travel"
+    url: /travel/
+  - title: "Career"
+    url: /career/
+  - title: "College"
+    url: /college/
