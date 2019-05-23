@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Day 0"
+---
+
 h1. My First Post - The Start of My Trip (before I've left)
 
 As I sit here, I realize that I have researched quite a bit and found a lot of helpful lists on different websites that help to understand what a packing list for Europe looks like. I sit here and think about how many ways that people who I don't know took time out of their day to help provide tips on their travel and how, even if the information was regurgitated, it was extremely helpful. I sit here thinking all this and procrastinating finishing cleaning my room and actually packing. 
