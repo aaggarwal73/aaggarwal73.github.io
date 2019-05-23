@@ -56,7 +56,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "../_college/"
+      path: "../_posts/"
       type: posts
     values:
       layout: single
